@@ -1,1 +1,1 @@
-#today is a great day i have been learning git. Let us make hands dirty with git 
+#today is a great day i have been learning git. Let us make hands dirty with git. A lesson to learn cheery piuck i am using this commit 
